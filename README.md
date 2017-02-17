@@ -21,7 +21,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
 ## List of technologies
-websocket from https://github.com/chadjougit/websocket-manager (midified)
+websocket from https://github.com/chadjougit/websocket-manager (modified)
 
 IdentityServer4 from https://github.com/IdentityServer/IdentityServer4
 
