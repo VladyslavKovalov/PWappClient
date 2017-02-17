@@ -32,5 +32,9 @@ This is a client app. To server part, check https://github.com/VladyslavKovalov/
 You need to replace url's in config.ts 
 To enable console, please commit  Log.setProductionMode() in app.component.ts
 
+##Updating Angular CLI
+
+https://github.com/angular/angular-cli#updating-angular-cli
+
   
 
