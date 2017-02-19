@@ -7,6 +7,8 @@ This sample shows how to connect Angular 2 and ASP.Net Core. This project uses i
 
 ![alt tag](http://g.recordit.co/HSbfThElMd.gif)
 
+![alt tag](https://media.giphy.com/media/26xBxAEQEDboWi2Qg/source.gif)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
 ## Development server
