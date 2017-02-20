@@ -3,6 +3,8 @@
 Angular2/ASP.Net Core "money" transactions sample
 This sample shows how to connect Angular 2 and ASP.Net Core. This project uses identityServer4, ngrx/store, webSockets, EFcore, Bootstrap 3 and PrimeNg
 
+This is a clien app. To server part, check https://github.com/VladyslavKovalov/PWappServer
+
 ##How To
 Try to create two new users with different sessions, then try to send betweeen them some transactions. You can check previous transactions in "History". 
 
@@ -34,7 +36,7 @@ and others..
 
 ##Configuration
 
-This is a client app. To server part, check https://github.com/VladyslavKovalov/PWappServer
+
 
 You need to replace url's in config.ts 
 To enable console, please commit  Log.setProductionMode() in app.component.ts
